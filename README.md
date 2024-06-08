@@ -1,5 +1,5 @@
 # Zaliczenie GR.3
-##Witryna ćwiczeniowa##
+ ##Zaliczenie##
 
 **Grupa nr 3**
 - Damian Górecki - kierownik
